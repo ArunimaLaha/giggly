@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+#img2{
+	width:325px;
+	height:107px;
+	
+}
+.btn btn-default{
+	margin-left:2px;
+	margin-right:2px;
+	border-radius: 50px;
+}
+ #t1{
+	 border-radius: 50px;
+	 margin:auto;
+	 text-align: centre;
+	 background-color:#dfdfdf;
+	 border: none;
+	 height: 25px;
+	 color: #9e9e9e;
+	  
+}
+#d1{
+	background-color:#f2f2f2;
+	 height:20%;
+	  margin-top=50px;
+	  margin-bottom=50px;
+	  
+}
